@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrmelox
 - 👀 I’m interested in Data, NLP and AI
-- 🌱 I’m currently learning IT Science at Epitech Benin
+- 🌱 I’m currently Assistant Pédagogique at Epitech
 - 💞️ I’m looking to collaborate on every project related to AI 
 - 📫 How to reach me akandeabiodoun@gmail.com
 - 😄 Pronouns: ...
